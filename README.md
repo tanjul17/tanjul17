@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack developer & Machine Learning Enthusiast from India</h3>
 
 <br>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='500'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300'>
 
 - 🌱 I’m currently learning **Full Stack Development and Machine Learning**
 
