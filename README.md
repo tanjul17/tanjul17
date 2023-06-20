@@ -1,12 +1,15 @@
-## नमस्ते (Namaste), I am Tanjul Sarathe
+<h1 align="center">नमस्ते (Namaste), I am Tanjul Sarathe</h1>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150"'>
+
 
 <h3 align="center">A passionate Full Stack developer & Machine Learning Enthusiast from India</h3>
 
+<br>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='500'>
+
 - 🌱 I’m currently learning **Full Stack Development and Machine Learning**
 
-- 💬 Ask me about **Full Stack Developement & Data Structures**
+- 💬 Ask me about **Full Stack Development & Data Structures**
 
 - 📫 How to reach me **sarathetanjul@gmail.com**
 
