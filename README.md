@@ -7,7 +7,7 @@
 <br>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300'>
 
-- 🌱 I’m currently learning **Full Stack Development and Machine Learning**
+- 🌱 I’m currently learning **Full Stack and Machine Learning**
 
 - 💬 Ask me about **Full Stack Development & Data Structures**
 
