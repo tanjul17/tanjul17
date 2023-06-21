@@ -1,11 +1,16 @@
 <h1 align="center">नमस्ते (Namaste), I am Tanjul Sarathe</h1>
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 <h3 align="center">A passionate Full Stack developer & Machine Learning Enthusiast from India</h3>
 
 <br>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='400'>
 
 - 🌱 I’m currently learning **Full Stack and Machine Learning**
 
